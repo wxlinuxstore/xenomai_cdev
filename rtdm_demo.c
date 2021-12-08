@@ -62,3 +62,5 @@ static void __exit rt_demo_driver_exit(void)
 
 module_init(rt_demo_driver_init);
 module_exit(rt_demo_driver_exit);
+
+MODULE_LICENSE("GPL");
